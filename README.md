@@ -4,6 +4,10 @@
 A complete deep learning project that classifies images (e.g., cats vs dogs) using both a **Custom CNN** and **Transfer Learning with ResNet50**. The system evaluates both models and automatically selects the one with better performance. It also includes a **Flask-based web app** for real-time image predictions.
 
 ---
+Demo :
+
+![image](https://github.com/user-attachments/assets/118f8614-df66-4f97-bf94-ab991eac5aa0)
+
 
 ##  Project Structure
 
