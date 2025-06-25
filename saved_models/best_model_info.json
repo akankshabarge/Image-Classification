@@ -1,0 +1,9 @@
+{
+  "model_type": "transfer_learning",
+  "accuracy": 0.612500011920929,
+  "class_indices": {
+    "cats": 0,
+    "dogs": 1
+  },
+  "num_classes": 2
+}
